@@ -1,0 +1,10 @@
+.fabAdd{
+    position: fixed;
+    padding-top: 4%;
+    padding-left: 30%;
+  }
+  
+  #linearProgress{
+    position : absolute;
+    width: 75%
+  }
